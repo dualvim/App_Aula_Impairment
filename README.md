@@ -66,8 +66,7 @@ Aplicativo interativo para usar nas aulas de Impairment de Ativos
 ## 3.1 - Enunciado do exercício:
  - A empresa Transporte com Segurança Ltda., criada em 23 de março de 2005 é especializada em transporte de passageiros em ônibus para excursões em todo o país. A organização empresarial utiliza em sua operação 5 ônibus grandes e 3 micro ônibus.       
  - Todos os veículos foram comprados novos.    
- - A seguir são apresentados os dados de cada um dos ônibus listados no ativo imobilizado da empresa. 
-![Quadro1](C:\\Users\\Eduardo\\Desktop\\Apps_Aulas\\AppAulaImpairment\\Quadro01_EC1.PNG)               
+ - A seguir são apresentados os dados de cada um dos ônibus listados no ativo imobilizado da empresa.             
        
 
 Ativo |	Valor Compra |	Residual | Quantidade |	Data Compra | Vida Útil | Valor Venda
@@ -80,8 +79,8 @@ Micro-ônibus Mascarello - padrão ARTESP - 2014 | R$ 400.000 | 6% | 1 | 24/10/2
 
 
  - Já as receitas e gastos esperados até o fim da vida útil de cada um dos ônibus acima estão apresentados nas tabelas a seguir.      
-![Quadro2](C:\\Users\\Eduardo\\Desktop\\Apps_Aulas\\AppAulaImpairment\\Quadro02_EC1.PNG)                
-![Quadro3](C:\\Users\\Eduardo\\Desktop\\Apps_Aulas\\AppAulaImpairment\\Quadro03_EC1.PNG)                 
+![Quadro2](Quadro02_EC1.PNG)                
+![Quadro3](Quadro03_EC1.PNG)                 
            
 
  - Considerando a data de balanço 31/12/2016 e uma taxa de retorno esperada de 17,0% a.a., para cada um dos ativos acima, identifique se há necessidade de se reconhecer *impairment* e, em caso afirmativo, identifique também o valor das perdas a serem reconhecidas.        
