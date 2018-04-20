@@ -8,9 +8,9 @@ Aplicativo interativo para usar nas aulas de Impairment de Ativos
  - O desenvolvimento desse aplicativo usou como base o exercício **Estudo de Caso 1** da lista de exercícios 1/2018 do professor Ms. Geovane Camilo do Santos (PUC-GO).            
 	- O enunciado do aplicativo, as tabelas e o procedimento para acessar as resoluções estão descritos na seção 3.         
  - Aplicativo escrito e desenvolvido por Eduardo Alvim ([dualvim](https://github.com/dualvim/) )     
-	- Linguagem de desenvolvimento: R (Utilizando os recursos do *R Package* 'Shiny', desenvolvido pela RStudio)      
-	- Todo o código do aplicativo está disponível no repositorio do autor (dualvim), no seguinte endereço: [https://github.com/dualvim/](https://github.com/dualvim/)
-	- **(Obs: Fazer Upload do código)**         
+	- Linguagem de desenvolvimento: R (Utilizando os recursos do *R Package* 'Shiny', desenvolvido pela RStudio)        
+	- Versão on-line (hospedada em shinyapps.io) do aplicativo em: [https://dualvim.shinyapps.io/App_Aula_Impairment/](https://dualvim.shinyapps.io/App_Aula_Impairment/)       
+	- Todo o código do aplicativo está disponível no repositorio do autor (dualvim), no seguinte endereço: [https://github.com/dualvim/App_Aula_Impairment](https://github.com/dualvim/App_Aula_Impairment)        
       
 
 # 2 - *Inputs* com valores ajustáveis e *outputs* retornados:    
@@ -66,7 +66,7 @@ Aplicativo interativo para usar nas aulas de Impairment de Ativos
 ## 3.1 - Enunciado do exercício:
  - A empresa Transporte com Segurança Ltda., criada em 23 de março de 2005 é especializada em transporte de passageiros em ônibus para excursões em todo o país. A organização empresarial utiliza em sua operação 5 ônibus grandes e 3 micro ônibus.       
  - Todos os veículos foram comprados novos.    
- - A seguir são apresentados os dados de cada um dos ônibus listados no ativo imobilizado da empresa.             
+ - A seguir são apresentados os dados de cada um dos ônibus listados no ativo imobilizado da empresa.           
        
 
 Ativo |	Valor Compra |	Residual | Quantidade |	Data Compra | Vida Útil | Valor Venda
@@ -86,7 +86,7 @@ Micro-ônibus Mascarello - padrão ARTESP - 2014 | R$ 400.000 | 6% | 1 | 24/10/2
  - Considerando a data de balanço 31/12/2016 e uma taxa de retorno esperada de 17,0% a.a., para cada um dos ativos acima, identifique se há necessidade de se reconhecer *impairment* e, em caso afirmativo, identifique também o valor das perdas a serem reconhecidas.        
 	
 	
-## 3.2 - Respostas das questçoes do estudo de caso:      
+## 3.2 - Respostas das questões do estudo de caso:      
  - Na aba **"Dados Imobilizado"**, no menu lateral com os campos para selecionar os valores dos *inputs* da análise, o primeiro campo (Nome do Ativo), é uma lista suspensa com os nomes de cada um dos ativos analisados no exercício.      
  - Ao selecionar um dos ativos dessa lista, o aplicativo irá definir automaticamente os valores de todos os campos do menu lateral com os *inputs* e o painel principal irá apresentar todos os *outputs* calculados para o exercício.       
  - Após a selecionar um dos ativos da lista suspensa, o usuário poderá modificar sem problema algum os valores dos *inputs* no menu lateral e, com isso, continuar recebendo as soluções de versões alternativas do exercício.     
